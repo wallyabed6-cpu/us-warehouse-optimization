@@ -1,0 +1,677 @@
+[
+  {
+    "city": "New York",
+    "state_id": "NY",
+    "state_name": "New York",
+    "lat": 40.6943,
+    "lng": -73.9249,
+    "population": 19268388,
+    "idx": 0
+  },
+  {
+    "city": "Los Angeles",
+    "state_id": "CA",
+    "state_name": "California",
+    "lat": 34.1141,
+    "lng": -118.4068,
+    "population": 11984083,
+    "idx": 1
+  },
+  {
+    "city": "Chicago",
+    "state_id": "IL",
+    "state_name": "Illinois",
+    "lat": 41.8375,
+    "lng": -87.6866,
+    "population": 8609571,
+    "idx": 2
+  },
+  {
+    "city": "Miami",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "lat": 25.784,
+    "lng": -80.2101,
+    "population": 6391670,
+    "idx": 3
+  },
+  {
+    "city": "Houston",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "lat": 29.786,
+    "lng": -95.3885,
+    "population": 6227666,
+    "idx": 4
+  },
+  {
+    "city": "Dallas",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "lat": 32.7935,
+    "lng": -96.7667,
+    "population": 5968322,
+    "idx": 5
+  },
+  {
+    "city": "Philadelphia",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "lat": 40.0077,
+    "lng": -75.1339,
+    "population": 5782653,
+    "idx": 6
+  },
+  {
+    "city": "Atlanta",
+    "state_id": "GA",
+    "state_name": "Georgia",
+    "lat": 33.7628,
+    "lng": -84.422,
+    "population": 5298788,
+    "idx": 7
+  },
+  {
+    "city": "Washington",
+    "state_id": "DC",
+    "state_name": "District of Columbia",
+    "lat": 38.9047,
+    "lng": -77.0163,
+    "population": 5230370,
+    "idx": 8
+  },
+  {
+    "city": "Boston",
+    "state_id": "MA",
+    "state_name": "Massachusetts",
+    "lat": 42.3188,
+    "lng": -71.0852,
+    "population": 4453352,
+    "idx": 9
+  },
+  {
+    "city": "Phoenix",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 33.5722,
+    "lng": -112.0892,
+    "population": 4121103,
+    "idx": 10
+  },
+  {
+    "city": "Detroit",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.3834,
+    "lng": -83.1024,
+    "population": 3773725,
+    "idx": 11
+  },
+  {
+    "city": "Seattle",
+    "state_id": "WA",
+    "state_name": "Washington",
+    "lat": 47.6211,
+    "lng": -122.3244,
+    "population": 3642006,
+    "idx": 12
+  },
+  {
+    "city": "San Francisco",
+    "state_id": "CA",
+    "state_name": "California",
+    "lat": 37.7558,
+    "lng": -122.4449,
+    "population": 3417736,
+    "idx": 13
+  },
+  {
+    "city": "San Diego",
+    "state_id": "CA",
+    "state_name": "California",
+    "lat": 32.8313,
+    "lng": -117.1222,
+    "population": 3064435,
+    "idx": 14
+  },
+  {
+    "city": "Tampa",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "lat": 27.9945,
+    "lng": -82.4447,
+    "population": 2957531,
+    "idx": 15
+  },
+  {
+    "city": "Minneapolis",
+    "state_id": "MN",
+    "state_name": "Minnesota",
+    "lat": 44.9635,
+    "lng": -93.2678,
+    "population": 2937866,
+    "idx": 16
+  },
+  {
+    "city": "Denver",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 39.762,
+    "lng": -104.8758,
+    "population": 2714768,
+    "idx": 17
+  },
+  {
+    "city": "Riverside",
+    "state_id": "CA",
+    "state_name": "California",
+    "lat": 33.9381,
+    "lng": -117.3949,
+    "population": 2333040,
+    "idx": 18
+  },
+  {
+    "city": "Las Vegas",
+    "state_id": "NV",
+    "state_name": "Nevada",
+    "lat": 36.2333,
+    "lng": -115.2654,
+    "population": 2299189,
+    "idx": 19
+  },
+  {
+    "city": "Baltimore",
+    "state_id": "MD",
+    "state_name": "Maryland",
+    "lat": 39.3051,
+    "lng": -76.6144,
+    "population": 2201673,
+    "idx": 20
+  },
+  {
+    "city": "St. Louis",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "lat": 38.6359,
+    "lng": -90.2451,
+    "population": 2129918,
+    "idx": 21
+  },
+  {
+    "city": "Portland",
+    "state_id": "OR",
+    "state_name": "Oregon",
+    "lat": 45.5371,
+    "lng": -122.65,
+    "population": 2115140,
+    "idx": 22
+  },
+  {
+    "city": "San Antonio",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "lat": 29.4632,
+    "lng": -98.5238,
+    "population": 2096390,
+    "idx": 23
+  },
+  {
+    "city": "Sacramento",
+    "state_id": "CA",
+    "state_name": "California",
+    "lat": 38.5677,
+    "lng": -121.4685,
+    "population": 1975489,
+    "idx": 24
+  },
+  {
+    "city": "Orlando",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "lat": 28.4773,
+    "lng": -81.337,
+    "population": 1948155,
+    "idx": 25
+  },
+  {
+    "city": "Austin",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "lat": 30.3005,
+    "lng": -97.7522,
+    "population": 1940039,
+    "idx": 26
+  },
+  {
+    "city": "San Jose",
+    "state_id": "CA",
+    "state_name": "California",
+    "lat": 37.3012,
+    "lng": -121.848,
+    "population": 1827643,
+    "idx": 27
+  },
+  {
+    "city": "Indianapolis",
+    "state_id": "IN",
+    "state_name": "Indiana",
+    "lat": 39.7771,
+    "lng": -86.1458,
+    "population": 1767321,
+    "idx": 28
+  },
+  {
+    "city": "Pittsburgh",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "lat": 40.4397,
+    "lng": -79.9763,
+    "population": 1729616,
+    "idx": 29
+  },
+  {
+    "city": "Cincinnati",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "lat": 39.1413,
+    "lng": -84.506,
+    "population": 1726642,
+    "idx": 30
+  },
+  {
+    "city": "Kansas City",
+    "state_id": "MO",
+    "state_name": "Missouri",
+    "lat": 39.1238,
+    "lng": -94.5541,
+    "population": 1714910,
+    "idx": 31
+  },
+  {
+    "city": "Cleveland",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "lat": 41.4764,
+    "lng": -81.6805,
+    "population": 1695555,
+    "idx": 32
+  },
+  {
+    "city": "Columbus",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "lat": 39.9862,
+    "lng": -82.9855,
+    "population": 1635039,
+    "idx": 33
+  },
+  {
+    "city": "Charlotte",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "lat": 35.2083,
+    "lng": -80.8303,
+    "population": 1488249,
+    "idx": 34
+  },
+  {
+    "city": "Virginia Beach",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 36.7335,
+    "lng": -76.0435,
+    "population": 1441893,
+    "idx": 35
+  },
+  {
+    "city": "Jacksonville",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "lat": 30.3322,
+    "lng": -81.6749,
+    "population": 1335714,
+    "idx": 36
+  },
+  {
+    "city": "Providence",
+    "state_id": "RI",
+    "state_name": "Rhode Island",
+    "lat": 41.823,
+    "lng": -71.4187,
+    "population": 1292041,
+    "idx": 37
+  },
+  {
+    "city": "Milwaukee",
+    "state_id": "WI",
+    "state_name": "Wisconsin",
+    "lat": 43.0642,
+    "lng": -87.9675,
+    "population": 1291752,
+    "idx": 38
+  },
+  {
+    "city": "Nashville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 36.1715,
+    "lng": -86.7842,
+    "population": 1201962,
+    "idx": 39
+  },
+  {
+    "city": "Salt Lake City",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.7776,
+    "lng": -111.9311,
+    "population": 1183003,
+    "idx": 40
+  },
+  {
+    "city": "Raleigh",
+    "state_id": "NC",
+    "state_name": "North Carolina",
+    "lat": 35.8324,
+    "lng": -78.6429,
+    "population": 1179118,
+    "idx": 41
+  },
+  {
+    "city": "Richmond",
+    "state_id": "VA",
+    "state_name": "Virginia",
+    "lat": 37.5295,
+    "lng": -77.4756,
+    "population": 1098457,
+    "idx": 42
+  },
+  {
+    "city": "Memphis",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.1087,
+    "lng": -89.9663,
+    "population": 1037125,
+    "idx": 43
+  },
+  {
+    "city": "Oklahoma City",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 35.4676,
+    "lng": -97.5136,
+    "population": 1017828,
+    "idx": 44
+  },
+  {
+    "city": "Hartford",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.7661,
+    "lng": -72.6834,
+    "population": 990793,
+    "idx": 45
+  },
+  {
+    "city": "Louisville",
+    "state_id": "KY",
+    "state_name": "Kentucky",
+    "lat": 38.1663,
+    "lng": -85.6485,
+    "population": 988018,
+    "idx": 46
+  },
+  {
+    "city": "Bridgeport",
+    "state_id": "CT",
+    "state_name": "Connecticut",
+    "lat": 41.1918,
+    "lng": -73.1954,
+    "population": 945974,
+    "idx": 47
+  },
+  {
+    "city": "Buffalo",
+    "state_id": "NY",
+    "state_name": "New York",
+    "lat": 42.9018,
+    "lng": -78.8487,
+    "population": 934832,
+    "idx": 48
+  },
+  {
+    "city": "New Orleans",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.0687,
+    "lng": -89.9288,
+    "population": 928503,
+    "idx": 49
+  },
+  {
+    "city": "Tucson",
+    "state_id": "AZ",
+    "state_name": "Arizona",
+    "lat": 32.1541,
+    "lng": -110.8787,
+    "population": 890860,
+    "idx": 50
+  },
+  {
+    "city": "El Paso",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "lat": 31.8476,
+    "lng": -106.43,
+    "population": 866309,
+    "idx": 51
+  },
+  {
+    "city": "Omaha",
+    "state_id": "NE",
+    "state_name": "Nebraska",
+    "lat": 41.2627,
+    "lng": -96.0529,
+    "population": 836740,
+    "idx": 52
+  },
+  {
+    "city": "McAllen",
+    "state_id": "TX",
+    "state_name": "Texas",
+    "lat": 26.2252,
+    "lng": -98.2467,
+    "population": 820752,
+    "idx": 53
+  },
+  {
+    "city": "Birmingham",
+    "state_id": "AL",
+    "state_name": "Alabama",
+    "lat": 33.5279,
+    "lng": -86.7971,
+    "population": 773997,
+    "idx": 54
+  },
+  {
+    "city": "Albuquerque",
+    "state_id": "NM",
+    "state_name": "New Mexico",
+    "lat": 35.1054,
+    "lng": -106.6465,
+    "population": 765360,
+    "idx": 55
+  },
+  {
+    "city": "Tulsa",
+    "state_id": "OK",
+    "state_name": "Oklahoma",
+    "lat": 36.1283,
+    "lng": -95.9042,
+    "population": 747529,
+    "idx": 56
+  },
+  {
+    "city": "Charleston",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 32.8168,
+    "lng": -79.9687,
+    "population": 734681,
+    "idx": 57
+  },
+  {
+    "city": "Fresno",
+    "state_id": "CA",
+    "state_name": "California",
+    "lat": 36.783,
+    "lng": -119.7939,
+    "population": 732197,
+    "idx": 58
+  },
+  {
+    "city": "Rochester",
+    "state_id": "NY",
+    "state_name": "New York",
+    "lat": 43.168,
+    "lng": -77.6162,
+    "population": 697898,
+    "idx": 59
+  },
+  {
+    "city": "Cape Coral",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "lat": 26.6443,
+    "lng": -81.9957,
+    "population": 675797,
+    "idx": 60
+  },
+  {
+    "city": "Dayton",
+    "state_id": "OH",
+    "state_name": "Ohio",
+    "lat": 39.7805,
+    "lng": -84.2003,
+    "population": 672634,
+    "idx": 61
+  },
+  {
+    "city": "Baton Rouge",
+    "state_id": "LA",
+    "state_name": "Louisiana",
+    "lat": 30.442,
+    "lng": -91.1311,
+    "population": 654357,
+    "idx": 62
+  },
+  {
+    "city": "Allentown",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "lat": 40.5961,
+    "lng": -75.4756,
+    "population": 644758,
+    "idx": 63
+  },
+  {
+    "city": "Colorado Springs",
+    "state_id": "CO",
+    "state_name": "Colorado",
+    "lat": 38.8674,
+    "lng": -104.7605,
+    "population": 643336,
+    "idx": 64
+  },
+  {
+    "city": "Provo",
+    "state_id": "UT",
+    "state_name": "Utah",
+    "lat": 40.2457,
+    "lng": -111.6457,
+    "population": 641732,
+    "idx": 65
+  },
+  {
+    "city": "Knoxville",
+    "state_id": "TN",
+    "state_name": "Tennessee",
+    "lat": 35.9692,
+    "lng": -83.9496,
+    "population": 627090,
+    "idx": 66
+  },
+  {
+    "city": "Grand Rapids",
+    "state_id": "MI",
+    "state_name": "Michigan",
+    "lat": 42.9619,
+    "lng": -85.6562,
+    "population": 622168,
+    "idx": 67
+  },
+  {
+    "city": "Columbia",
+    "state_id": "SC",
+    "state_name": "South Carolina",
+    "lat": 34.0378,
+    "lng": -80.9036,
+    "population": 610536,
+    "idx": 68
+  },
+  {
+    "city": "Albany",
+    "state_id": "NY",
+    "state_name": "New York",
+    "lat": 42.6664,
+    "lng": -73.7987,
+    "population": 607238,
+    "idx": 69
+  },
+  {
+    "city": "Des Moines",
+    "state_id": "IA",
+    "state_name": "Iowa",
+    "lat": 41.5725,
+    "lng": -93.6105,
+    "population": 570091,
+    "idx": 70
+  },
+  {
+    "city": "Bakersfield",
+    "state_id": "CA",
+    "state_name": "California",
+    "lat": 35.3529,
+    "lng": -119.0359,
+    "population": 566351,
+    "idx": 71
+  },
+  {
+    "city": "Palm Bay",
+    "state_id": "FL",
+    "state_name": "Florida",
+    "lat": 27.9631,
+    "lng": -80.6593,
+    "population": 553332,
+    "idx": 72
+  },
+  {
+    "city": "Wichita",
+    "state_id": "KS",
+    "state_name": "Kansas",
+    "lat": 37.6895,
+    "lng": -97.3443,
+    "population": 519036,
+    "idx": 73
+  },
+  {
+    "city": "Harrisburg",
+    "state_id": "PA",
+    "state_name": "Pennsylvania",
+    "lat": 40.2752,
+    "lng": -76.8843,
+    "population": 510827,
+    "idx": 74
+  }
+]
