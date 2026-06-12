@@ -1,0 +1,5 @@
+# GitHub Linguist classifies .sql as a "data" language, which excludes it from
+# the repo Languages bar by default. SQL is a core part of this project, so
+# force it to be counted in the language statistics.
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
