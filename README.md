@@ -4,6 +4,10 @@ A facility-location model that identifies the optimal placement of distribution
 centers across the contiguous United States to minimize total population-weighted
 shipping distance. Includes an interactive executive dashboard for scenario analysis.
 
+**🌐 [Live dashboard →](https://us-warehouse-optimizer.netlify.app)**
+
+![US Warehouse Network Optimizer dashboard](docs/dashboard.png)
+
 ## Project Structure
 
 ```
