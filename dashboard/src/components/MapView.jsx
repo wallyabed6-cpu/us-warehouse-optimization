@@ -1,7 +1,9 @@
 import { MapContainer, TileLayer, CircleMarker, Polyline, Tooltip } from 'react-leaflet';
 import { CLUSTER_COLORS } from '../data';
 
-const TILE_URL = 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png';
+// carto now needs an api key, so use openstreetmap tiles
+const TILE_URL = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
+const TILE_ATTRIBUTION = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
 
 function popRadius(pop) {
   return Math.max(3, Math.min(14, Math.sqrt(pop / 500000) * 4));
@@ -15,7 +17,7 @@ export default function MapView({ scenario }) {
       style={{ height: '100%', width: '100%' }}
       zoomControl={true}
     >
-      <TileLayer url={TILE_URL} />
+      <TileLayer url={TILE_URL} attribution={TILE_ATTRIBUTION} />
 
       {scenario.warehouses.flatMap((cluster, ci) => {
         const color = CLUSTER_COLORS[ci % CLUSTER_COLORS.length];
